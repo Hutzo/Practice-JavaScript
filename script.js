@@ -12,6 +12,7 @@ function start() {
 start();
 
 let appDate = {
+    category: [],
     budget: money,
     expenses: {},
     optionalExpenses: {},
